@@ -1,4 +1,4 @@
 # game
 thing which codex made
 
-* teemsucks.github.io/game *
+```teemsucks.github.io/game```
